@@ -1,0 +1,55 @@
+#optimization {
+    height: 502px;
+    background-image:url(../img/woman_bg.png);
+    background-size:auto 502px;
+    background-repeat: no-repeat;
+}
+
+#optimization .container {
+    display:flex;
+    flex-direction: column;
+    align-items:flex-end;
+}
+    #optimization header h3 {
+        font-weight: 900;
+        font-size: 30px;
+        color: #299CBD;
+        text-transform: uppercase;
+        margin-bottom: 20px;
+
+    }
+
+    
+
+    #optimization p {
+        font-size: 17px;
+        font-weight: 300;
+        font-style: normal;
+        color:#4A4A4A;
+        margin-bottom: 20px;
+
+
+
+
+    }
+
+    #optimization b {
+        font-size: 17px;
+        font-weight: 700;
+        font-style: normal;
+        color:#4A4A4A;
+        
+    }
+
+
+.optimization_header {
+    width: 750px;
+
+
+    }
+
+.optimization_description {
+    width: 750px;
+     
+
+}
